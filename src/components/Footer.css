@@ -2,18 +2,13 @@
     display: flex;
     margin: 0%;
     padding: 0%;
-    /* background: linear-gradient(
-    90deg,
-    rgba(48, 16, 255, 1) 0%,
-    rgba(100, 115, 255, 1) 100%
-  ); */
     background-color: #070707;
     color: orange;
 }
 .footer-text {
     font-size: 20px;
     text-align: center; 
-    margin-left: 40%;
+    margin-left: 0 auto;
 }
 .footer-text p{
     font-size: 15px;
